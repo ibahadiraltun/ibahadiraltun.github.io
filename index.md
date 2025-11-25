@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My research focuses on temporal graphs, computational social science and social networks.
+My research combines temporal graph analysis with computational social science to understand the dynamics of social networks.
 
 ## Research Interests
 
