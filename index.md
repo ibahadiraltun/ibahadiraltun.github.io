@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-My research combines temporal graph analysis with computational social science to understand the dynamics of social networks.
+My research combines temporal network analysis with statistical modeling to study the evolution of complex systems.
 
 ## Research Interests
 
-- **Computational Social Science:** social networks, misinformation spread, event prediction
-- **Temporal Graphs:** temporal link prediction, graph neural networks, stochastic processes
+- **Temporal Networks:** temporal link prediction, stochastic processes, graph neural networks
+- **Computational Social Science:** social networks, fraud detection, misinformation spread
 
 {% include_relative _includes/publications.md %}
 

@@ -14,7 +14,7 @@
   <li><autocolor>Advanced Algorithms and Data Structures</autocolor></li>
 </ul>
 
-## Awards and Fellowships
+<!-- ## Awards and Fellowships
 
 <h4 style="margin:0 10px 0;">Scholarships and Fellowships</h4>
 
@@ -33,26 +33,26 @@
 <h4 style="margin:0 10px 0;">ACM International Collegiate Programming Contest (ICPC)</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Honorable Mention in Southeastern Europe (SEERC), 2020</autocolor></li>
-  <li><autocolor>3rd place in Turkish Programming Contest (TPC), 2019</autocolor></li>
-</ul>
+  <li><autocolor>11th place (119 teams) in Southeastern Europe Regional Contest, Honorable Mention, 2020.</autocolor></li>
+  <li><autocolor>3rd place (56 teams) in Turkish Programming Contest (TPC), 2019</autocolor></li>
+</ul> -->
 
-<h4 style="margin:0 10px 0;">YSK International Olympiads in Informatics</h4>
+<!-- <h4 style="margin:0 10px 0;">YSK International Olympiads in Informatics</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Silver Medal, YSK International Olympiad in Informatics, 2017</autocolor></li>
   <li><autocolor>3rd place in national selection contest, 2016</autocolor></li>
-</ul>
+</ul> -->
 
-<h4 style="margin:0 10px 0;">Turkish National Olympiads in Informatics</h4>
+<!-- <h4 style="margin:0 10px 0;">Turkish National Olympiads in Informatics</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>4th place in Winter Camp Final, 2017</autocolor></li>
   <li><autocolor>Silver Medal in the main olympiad, 2016</autocolor></li>
   <li><autocolor>2nd place in Summer Camp Final, 2016</autocolor></li>
-</ul>
+</ul> -->
 
-<h4 style="margin:0 10px 0;">Other Programming Competitions</h4>
+<!-- <h4 style="margin:0 10px 0;">Other Programming Competitions</h4>
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>1st place (200+ teams), Istanbul Technical University algoComp Qualifier, 2021</autocolor></li>
@@ -60,7 +60,7 @@
   <li><autocolor>1st place (100+ teams), CodeFest Türkiye, 2016 and 2018</autocolor></li>
   <li><autocolor>5th place (100+ teams), CodeFest Türkiye, 2017</autocolor></li>
   <li><autocolor>Bronze Medal, İstanbul Science Olympiads (ISBO), 2016</autocolor></li>
-</ul>
+</ul> -->
 
 ## Services
 
