@@ -29,7 +29,7 @@ main:
     pdf: https://arxiv.org/pdf/2207.11500.pdf
     code: https://github.com/dilaradogan/ICWSM-2023
     image: ./assets/img/icwsm2023.png
-    notes: ICWSM Travel Grant
+    notes: ICWSM Student Travel Grant
 
   - title: "Building test collections using bandit techniques: a reproducibility study"
     authors: <strong>Bahadir Altun</strong> and Mucahid Kutlu
@@ -38,7 +38,7 @@ main:
     pdf: https://dl.acm.org/doi/10.1145/3340531.3412121
     code: https://github.com/ibahadiraltun/DocumentSelectionAlgorithms
     image: ./assets/img/cikm2020.png
-    notes: SIGIR Travel Grant
+    notes: SIGIR Student Travel Grant
 
   - title: "TOBB-ETU at CLEF 2019: Prioritizing claims based on check-worthiness"
     authors: <strong>Bahadır Altun</strong> and Mücahid Kutlu
